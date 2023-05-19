@@ -5,6 +5,8 @@ If this code helps you for your research or project, please kindly cite the belo
 
 1.Cho, J., & Kim, Y. (2020, October 21). Low power approximate multiplier using error tolerant adder. 2020 International SoC Design Conference (ISOCC)
 
-2.Sunny, Anju, Binu K. Mathew, and P. B. Dhanusha. "Area Efficient High Speed Approximate Multiplier with Carry Predictor." Procedia Technology 24 (2016): 1170-1177.
+2.Kim, Yongtae. "A Novel Approximate Adder with Enhanced Low-cost Carry Prediction for Error Tolerant Computing." IEIE Transactions on Smart Processing & Computing 8.6 (2019): 506-510.
 
-3.Sunny, Anju, Binu K. Mathew, and P. B. Dhanusha. "Design of high speed approximate multiplier with carry speculation compressor." Int J Sci Technol Eng 2.4 (2015): 1-10=
+3.Sunny, Anju, Binu K. Mathew, and P. B. Dhanusha. "Area Efficient High Speed Approximate Multiplier with Carry Predictor." Procedia Technology 24 (2016): 1170-1177.
+
+4.Sunny, Anju, Binu K. Mathew, and P. B. Dhanusha. "Design of high speed approximate multiplier with carry speculation compressor." Int J Sci Technol Eng 2.4 (2015): 1-10=
