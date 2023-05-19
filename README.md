@@ -1,5 +1,5 @@
 # Approximate_Multipliers
-This repository contains approximate multiplier using error tolerant adder Verilog code.
+This repository contains the modified approximate multiplier using error tolerant adder(used in Cho, J., & Kim, Y. (2020, October 21). Low power approximate multiplier using error tolerant adder. 2020 International SoC Design Conference (ISOCC) ) Verilog code.
 
 If this code helps you for your research or project, please kindly cite the below paper:
 Cho, J., & Kim, Y. (2020, October 21). Low power approximate multiplier using error tolerant adder. 2020 International SoC Design Conference (ISOCC)
